@@ -1,0 +1,29 @@
+/* CSS personalizado para estilizar a página */
+
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .card {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-header {
+    background-color: #343a40;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .card-body {
+    padding: 30px;
+  }
+  
+  .form-control {
+    border-radius: 12px;
+  }
+  
+  .btn {
+    border-radius: 12px;
+  }
+  
